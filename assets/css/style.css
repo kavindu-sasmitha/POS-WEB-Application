@@ -1,0 +1,19 @@
+ body {
+            padding-top: 56px;
+        }
+
+        .section {
+            display: none;
+        }
+
+        .section.active {
+            display: block;
+        }
+
+        .table-responsive {
+            margin-top: 20px;
+        }
+
+        .btn-sm {
+            margin-right: 5px;
+        }
